@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-aplicaciones",
+  "version": "1.0.0",
+  "description": "Proyecto para evaluar CI/CD en Aplicaciones y Servicios Web",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No hay pruebas definidas aún\" && exit 0"
+  },
+  "author": "Kevin Colorado",
+  "license": "ISC"
+}
