@@ -1,1 +1,1 @@
-console.log("Hola, este es el proyecto de CI/CD para Aplicaciones y Servicios Web.");
+console.log("Cambio 1: Hola desde el primer commit de prueba.");
